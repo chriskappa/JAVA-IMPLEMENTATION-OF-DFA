@@ -129,7 +129,7 @@ class GFG {
             return 0;
     }
  
-
+//    Main Function 
     public static void main(String[] args)
     {
         String[] list = {"GLE","GOOGLLE","GGLE","XXGOGOOOGLEGLXX","XXOOOOOXXGLLLELGGLOXGLEOXXX","OLEGLGLXXGLEXOOOOO","GLGEGLEX"};
